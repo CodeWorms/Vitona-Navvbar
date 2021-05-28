@@ -1,0 +1,12 @@
+WHAT YOU HAVE TO DO : Create a Navbar that looks like the one on vitonaelastomers.in. It should also be responive. Also you need to add an image(bg.png) behind the Navbar(HINT : Make th Navbar absolutely positioned). 
+
+
+
+NOTE : You don't need to add the carousel. One image is only required. 
+
+NOTE2 : Also don't bother with the underline effect on the links.
+
+NOTE3 : For the brand please use the logo.png image
+
+
+OPTIONAL : Use Media Queries to add a colour to the Navbar on small screen sizes
